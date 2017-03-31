@@ -1,0 +1,109 @@
+{
+  "Woot:none:Sheep": {
+    "mob": "Woot:none:Sheep",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 1,
+        "drops": [
+          {
+            "item": "minecraft:wool:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 1,
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "item": "minecraft:mutton:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Squid": {
+    "mob": "Woot:none:Squid",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 1,
+        "drops": [
+          {
+            "item": "minecraft:dye:0",
+            "count": 1,
+            "weights": [
+              {
+                "stack_size": 2,
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  },
+  "Woot:none:Bat": {
+    "mob": "Woot:none:Bat",
+    "pools": [
+      {
+        "key": "NO_ENCHANT",
+        "samples": 1,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_I",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_II",
+        "samples": 0,
+        "drops": []
+      },
+      {
+        "key": "LOOTING_III",
+        "samples": 0,
+        "drops": []
+      }
+    ]
+  }
+}
